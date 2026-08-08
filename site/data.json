@@ -1,0 +1,110 @@
+{
+  "slug": "research-studio",
+  "host": "research",
+  "title": "Research Studio",
+  "tagline": "Personas, usability tests and insights",
+  "description": "Create personas, interview guides, and usability tests. Build affinity maps, journey maps, and competitive analyses, run card sorts, A/B tests, and focus groups, and centralize findings in a research repository with synthesis reports.",
+  "editors": [
+    {
+      "category": "User Research Editors",
+      "name": "Persona Editor",
+      "desc": "User persona creation"
+    },
+    {
+      "category": "User Research Editors",
+      "name": "Interview Guide Editor",
+      "desc": "Research interview script building"
+    },
+    {
+      "category": "User Research Editors",
+      "name": "Usability Test Editor",
+      "desc": "Task-based usability test design"
+    },
+    {
+      "category": "User Research Editors",
+      "name": "Survey Research Editor",
+      "desc": "Research-focused survey building"
+    },
+    {
+      "category": "User Research Editors",
+      "name": "Affinity Map Editor",
+      "desc": "Qualitative data clustering"
+    },
+    {
+      "category": "User Research Editors",
+      "name": "Research Journey Map Editor",
+      "desc": "Research-based experience mapping"
+    },
+    {
+      "category": "User Research Editors",
+      "name": "Competitive Analysis Editor",
+      "desc": "Competitor comparison matrix"
+    },
+    {
+      "category": "User Research Editors",
+      "name": "Research Repository Editor",
+      "desc": "Centralized research findings storage"
+    },
+    {
+      "category": "User Research Editors",
+      "name": "Card Sort Editor",
+      "desc": "Information architecture testing"
+    },
+    {
+      "category": "User Research Editors",
+      "name": "Heatmap Analysis Editor",
+      "desc": "Click/scroll heatmap review"
+    },
+    {
+      "category": "User Research Editors",
+      "name": "A/B Test Editor",
+      "desc": "Experiment design and variant setup"
+    },
+    {
+      "category": "User Research Editors",
+      "name": "Survey Sampling Editor",
+      "desc": "Respondent quota and sampling rules"
+    },
+    {
+      "category": "User Research Editors",
+      "name": "Insight Report Editor",
+      "desc": "Research synthesis report building"
+    },
+    {
+      "category": "User Research Editors",
+      "name": "Focus Group Editor",
+      "desc": "Focus group session planning"
+    },
+    {
+      "category": "User Research Editors",
+      "name": "Diary Study Editor",
+      "desc": "Longitudinal study tracking"
+    }
+  ],
+  "services": [
+    [
+      "knowledge",
+      "core"
+    ],
+    [
+      "search",
+      "core"
+    ],
+    [
+      "model",
+      "core"
+    ],
+    [
+      "agent",
+      "core"
+    ],
+    [
+      "document",
+      "core"
+    ],
+    [
+      "publishing",
+      "core"
+    ]
+  ]
+}
